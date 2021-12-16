@@ -1,0 +1,13 @@
+digraph L {
+node [shape = record, color = cornflowerblue];
+nd_1 [label="Calderon\lCarlos\l35249120" ]
+nd_2 [label="Fernandez\lDaniel\l35219685" ]
+nd_3 [label="Fernandez\lPedro\l20144580" ]
+nd_4 [label="Gomez\lMonica\l40201014" ]
+nd_5 [label="Hernandez\lPedro\l20844580" ]
+nd_6 [label="Lopez\lRoberto\l48745210" ]
+nd_7 [label="Martin\lLuis\l20143040" ]
+
+nd_1->nd_2->nd_3->nd_4->nd_5->nd_6->nd_7
+
+}

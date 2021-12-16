@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<agenda>
+	<contacto>
+		<telefono>35249120</telefono>
+		<nombre>Carlos</nombre>
+		<apellido>Calderon</apellido>
+	</contacto>
+	<contacto>
+		<telefono>40201014</telefono>
+		<nombre>Monica</nombre>
+		<apellido>Gomez</apellido>
+	</contacto>
+	<contacto>
+		<telefono>20144580</telefono>
+		<nombre>Pedro</nombre>
+		<apellido>Fernandez</apellido>
+	</contacto>
+	<contacto>
+		<telefono>20844580</telefono>
+		<nombre>Pedro</nombre>
+		<apellido>Hernandez</apellido>
+	</contacto>
+	<contacto>
+		<telefono>35219685</telefono>
+		<nombre>Daniel</nombre>
+		<apellido>Fernandez</apellido>
+	</contacto>
+	<contacto>
+		<telefono>48745210</telefono>
+		<nombre>Roberto</nombre>
+		<apellido>Lopez</apellido>
+	</contacto>
+	<contacto>
+		<telefono>20143040</telefono>
+		<nombre>Luis</nombre>
+		<apellido>Martin</apellido>
+	</contacto>
+</agenda>
