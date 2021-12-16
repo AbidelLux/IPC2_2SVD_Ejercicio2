@@ -202,7 +202,7 @@ class Contactos():
                 Graph = Graph+"nd_"+str(num)+"\n"
         Graph = Graph+"\n"+"}"
         print(Graph)
-        nuevo_arch = open('cola.dot','w')
+        nuevo_arch = open('lista.dot','w')
         nuevo_arch.write(Graph)
         nuevo_arch.seek(0)
         comando = "dot -Tpng lista.dot -o lista.png"
